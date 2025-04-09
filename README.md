@@ -58,12 +58,12 @@ This is a modern React web application built as a task for a front-end developme
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/dummyjson-react-app.git
+git clone (https://github.com/arpitashah1/internship-task.git)
 ```
 
 2. Navigate to the project folder:
 ```bash
-cd dummyjson-react-app
+cd internship-task
 ```
 
 3. Install dependencies:
@@ -76,14 +76,6 @@ npm install
 npm run dev
 ```
 
----
-
-## Notes
-- This app uses **localStorage** to persist user login state.
-- All protected routes are wrapped using a custom `Privateroute` component.
-- Styling is handled via plain CSS with a modern design aesthetic.
-
----
 
 ## Conclusion
 The application meets all the task requirements:
@@ -92,5 +84,5 @@ The application meets all the task requirements:
 - Product browsing & detail view
 - Clean and modern UI with CSS
 
-Ready for submission ✅
+
 
