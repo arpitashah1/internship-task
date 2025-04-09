@@ -75,7 +75,7 @@ npm install
 ```bash
 npm run dev
 ```
-
+---
 
 ## Conclusion
 The application meets all the task requirements:
